@@ -1,0 +1,13 @@
+{
+  "name": "my-project",
+  "version": "2.2.1",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Ola Mundo\" && exit 1"
+  },
+  "keywords": ["project"],
+  "author": "Pedro Lucas",
+  "license": "ISC"
+}
